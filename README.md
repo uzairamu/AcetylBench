@@ -131,7 +131,7 @@ If you use AcetylBench in your research, please cite:
   title     = {AcetylBench: A Deduplicated Benchmark Dataset Reveals Systematic 
                Performance Inflation and Cross-Database Generalization Failure 
                in Lysine Acetylation Site Prediction},
-  author    = {Ashraf, Mohd Uzair and Khan, Shaista and Khan, Rizwan Hasan},
+  author    = {Ashraf, Muhammad Uzair and Khan, Shaista and Khan, Rizwan Hasan},
   journal   = {BMC Bioinformatics},
   year      = {2026},
   note      = {Under review}
