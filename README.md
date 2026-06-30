@@ -15,7 +15,7 @@ This repository accompanies the paper:
 
 The AcetylBench training corpus and pre-computed ESM-1v embeddings are available at Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19475598.svg)](https://doi.org/10.5281/zenodo.19475598)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19475597.svg)](https://doi.org/10.5281/zenodo.19475597)
 
 | File | Sequences | Description |
 |---|---|---|
@@ -143,7 +143,7 @@ If you use AcetylBench in your research, please cite:
 ## License
 
 The code in this repository is released under the MIT License.  
-The dataset (Zenodo DOI: 10.5281/zenodo.19475598) is released under CC BY 4.0.
+The dataset (Zenodo DOI: 10.5281/zenodo.19475597) is released under CC BY 4.0.
 
 ---
 
